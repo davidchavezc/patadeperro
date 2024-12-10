@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    font-family: 'Open Sans';
+}
+header{
+    background-color: white;
+    max-width: auto;
+    max-height: 8em;
+    display: flex;
+    align-items: center;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 1em;
+    color: inherit;
+}
+a{
+    text-decoration: none;
+    font-size: 2em;
+}
+#headerLogo{
+    max-height: inherit;
+    margin-left: 1em;
+}
